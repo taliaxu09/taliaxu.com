@@ -25,5 +25,3 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a 4th year PhD student at the [Embedded and Networked Systems groups](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) at the [Delft University of Technology](https://www.tudelft.nl/en/). My supervisors are [Professor Marco Zuniga](https://www.st.ewi.tudelft.nl/marco/) and [Professor Qing Wang](https://www.st.ewi.tudelft.nl/qing/).
 
-
-<!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
