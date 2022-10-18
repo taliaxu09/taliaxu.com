@@ -8,7 +8,7 @@ middle_name:
 last_name: Xu
 email: talia.minyin.xu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-I am a 4th year PhD student at the [Embedded and Networked Systems groups](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) at the [Delft University of Technology](https://www.tudelft.nl/en/). My supervisors are [Professor Marco Zuniga](https://www.st.ewi.tudelft.nl/marco/) and [Professor Qing Wang](https://www.st.ewi.tudelft.nl/qing/).
+ I am a 4th year PhD student at the [Embedded and Networked Systems groups](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) at the [Delft University of Technology](https://www.tudelft.nl/en/). My supervisors are [Professor Marco Zuniga](https://www.st.ewi.tudelft.nl/marco/) and [Professor Qing Wang](https://www.st.ewi.tudelft.nl/qing/).
 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
